@@ -1,0 +1,1 @@
+Recording my learning progress about DIP and deep learning in Junior. 
